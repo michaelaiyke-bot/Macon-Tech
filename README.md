@@ -1,2 +1,2 @@
-# Macon-Tech-
+# Macon-Tech
 WhatsApp bot.
