@@ -1,4 +1,4 @@
-<div align="c
+<div align="center">
 <img src="https://i.ibb.co/000000/default-menu.jpg" alt="Macon-Tech" width="500">
 
 # Macon-Tech Bot
