@@ -9,7 +9,7 @@
 [![Session Pair](https://img.shields.io/badge/SESSION-PAIR%20CODE-blue)](https://your-pairing-site.example.com)
 [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-orange)](https://github.com/yourusername/macon-tech-bot/archive/refs/heads/main.zip)
 
-![Stars](https://img.shields.io/github/stars/yourusername/macon-tech-bot?style=flat&color=green)
+![Stars](https://img.shields.io/github/stars/michaelaiyke-bot/Macon-Tech?style=flat&color=green)
 ![Forks](https://img.shields.io/github/forks/yourusername/macon-tech-bot?style=flat&color=green)
 ![Repo Size](https://img.shields.io/github/repo-size/yourusername/macon-tech-bot?style=flat&color=green)
 
