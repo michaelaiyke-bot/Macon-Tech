@@ -7,7 +7,7 @@
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourusername/macon-tech-bot)
 [![Session Pair](https://img.shields.io/badge/SESSION-PAIR%20CODE-blue)](https://your-pairing-site.example.com)
-[![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-orange)](https://github.com/yourusername/macon-tech-bot/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-orange)](https://github.com/michaelaiyke-bot/Macon-Tech/archive/refs/heads/main.zip)
 
 ![Stars](https://img.shields.io/github/stars/michaelaiyke-bot/Macon-Tech?style=flat&color=green)
 ![Forks](https://img.shields.io/github/forks/michaelaiyke-bot/Macon-Tech?style=flat&color=green)
