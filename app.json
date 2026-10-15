@@ -1,0 +1,13 @@
+{
+  "name": "Macon-Tech Bot",
+  "description": "A WhatsApp bot with 160+ commands — owner tools, group management, economy, games, AI chat, and more.",
+  "repository": "https://github.com/yourusername/macon-tech-bot",
+  "keywords": ["whatsapp", "bot", "macon-tech"],
+  "env": {
+    "OWNER_NUMBER": { "description": "Your WhatsApp number, digits only, with country code", "required": true },
+    "BOT_NAME": { "description": "Bot display name", "value": "Macon-Tech" },
+    "PREFIX": { "description": "Command prefix", "value": "." },
+    "SESSION_ID": { "description": "Paste from the pairing website to skip interactive pairing", "required": false },
+    "GROQ_API_KEY": { "description": "Powers .ai/.gpt/.chatgpt — free at console.groq.com", "required": false }
+  }
+}
