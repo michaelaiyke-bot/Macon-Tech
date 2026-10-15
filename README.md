@@ -1,6 +1,4 @@
-<div align="center">
-
-<!-- Replace this with your own banner image once you have one hosted somewhere (imgbb, ibb.co, etc.) -->
+<div align="c
 <img src="https://i.ibb.co/000000/default-menu.jpg" alt="Macon-Tech" width="500">
 
 # Macon-Tech Bot
